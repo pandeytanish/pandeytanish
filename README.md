@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif"  />
+  <img height="250" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY4NTY5ODUsIm5iZiI6MTcyNjg1NjY4NSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTIwVDE4MjQ0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcyYzFiOTY5ZDNjOGIxOTA3ODQ2OGQyNDE2YzU1ZDRhNmU3ZGE1YmZiZDE5MWYwMmU1MDZkNGQ3ZGMwNGVkODgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.k8ZRzqc_cnStYYvXg6-HRfHWsExoq9lazMHHw4EZv0Y"  />
 </div>
 
 ###
@@ -27,7 +27,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there  👋</h1>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Frontend Intern <br>- 📚 I'm currently learning  React TS<br>- ⚡ In my free time I play games</p>
+<p align="left">I'm Tanish Pandey from Rewa <br><br>- 🔭 I’m working as Frontend Intern <br>- 📚 I'm currently learning  React TS<br>- ⚡ In my free time I play games</p>
 
 ###
 
@@ -95,6 +95,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pandeytanish/pandeytanish/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <img height="400" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY4NTY5ODUsIm5iZiI6MTcyNjg1NjY4NSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTIwVDE4MjQ0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkM2QzZjc1OWEzMTNkNGY2NzY5ZGRmOTYyOWQ2YmZiNGRkMTZlMzI5ZDAwYzNmODI4YzkxMDI5YmIwYTljZWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ixv-UyI1drb3oXhnKxPUMpwKtDS6qrqefwXiw8iYHTc"  />
+</div>
 
 ###
